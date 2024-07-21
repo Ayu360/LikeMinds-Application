@@ -1,8 +1,7 @@
 
 # LikeMinds Mobile application 
 
-This is mobile aplication for https://www.likeminds.community/
-
+This is react native mobile aplication for https://www.likeminds.community/
 
 
 ## 📦 Included packages
