@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "basic-webview-usage",
+    "name": "LikeMinds",
     "slug": "snack-73e073c6-2e2d-4ce9-9764-c35f1906030d",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,9 +16,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ayushninja.snack73e073c62e2d4ce99764c35f1906030d"
     },
     "web": {
       "favicon": "./assets/favicon.png"
